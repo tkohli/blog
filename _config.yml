@@ -1,12 +1,12 @@
-title: Tanishka Gitpage
-author: Tanishka
+title: Tanishka Blog Page
+author: Tanishka Kohli
 email: tanishka.kohli0@gmail.com
 theme: jekyll-theme-minimal
 
-description: this is just a regular gitpage and i am learning how to make gitpage
+description: This is my blog website where I share my experience and some notes as well for problems that I solve as Programmer
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: kohli00 # DO NOT include the @ character, or else the build will fail!
+github_username:  tkohli # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
