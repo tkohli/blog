@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 # This is a blog I needed to update
+I am currently out of town and need my computer.
+Bored like hell 😩
